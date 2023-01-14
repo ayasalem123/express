@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+.title{
+    background-color: aqua;
+    text-shadow: 10px;
+    border-style: groove;
+}
+img{
+    border-radius: 10px;
+    height: 200px;
+    width: 200px;
+}
